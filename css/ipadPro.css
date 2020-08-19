@@ -4,7 +4,6 @@
   #navbar {
     width: 100%;
   }
-
   .brand {
     margin-left: 50px;
   }
@@ -30,7 +29,7 @@
   }
 
   .burger {
-    display: block;
+    display: none;
   }
 
   /*Home Section*/
